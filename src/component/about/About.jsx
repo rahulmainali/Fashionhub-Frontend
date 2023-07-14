@@ -39,16 +39,13 @@ const About = () => {
                           lineHeight: "1.2",
                         }}
                       >
-                        Welcome to Kapada online store
+                        Welcome to Fashion Hub online store
                       </span>
                       <p>
-                        "Kapada" is a name that comes from the Nepali language, which is the official language of Nepal. In Nepali, "khel" means sport or game, and "kud" means play or participation. Together, "Kapada" can be translated to mean "sports play" or "participation in sports".
-
-                        A sports website named "Kapada" could be intended to serve the Nepalese community or those interested in Nepalese sports. The name itself is a nod to Nepal's rich sporting culture, which includes popular sports like football (soccer), cricket, volleyball, and martial arts. In recent years, Nepal has also made strides in sports like mountaineering and trekking, with Nepalese athletes achieving world-renowned success in these areas.
+                      Welcome to Fashion Hub, your ultimate destination for all things fashion! Step into our stylish store and immerse yourself in a world of impeccable style, where trends come to life and your personal fashion journey begins.
                       </p>
-                      <p>
-                        Overall, a website named "Kapada" could aim to promote and celebrate Nepalese sports and sporting achievements, as well as provide a platform for sports fans to engage with one another and access relevant news, information, and products related to their favorite sports.
-                      </p>
+                      
+                        
                     </div>
                   </div>
                 </div>

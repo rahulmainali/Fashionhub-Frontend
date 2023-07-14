@@ -25,17 +25,7 @@ const { cartItems } = useSelector((state) => state.cart);
       <div className="Header__topbar space__beetween">
         {/* Topbar Left */}
         <div className="logo pxy__10">
-          <Link to="/">
-            <img
-              src={logoo}
-              alt=""
-              className="logo"
-              style={{
-                width: "250px",
-                cursor: "pointer",
-              }}
-            />
-          </Link>
+   
         </div>
 
 
@@ -60,6 +50,17 @@ const { cartItems } = useSelector((state) => state.cart);
               justifyContent: "center",
             }}
           >
+                   <Link to="/">
+            <img
+              src={logoo}
+              alt=""
+              className="logo"
+              style={{
+                width: "80px",
+                cursor: "pointer",
+              }}
+            />
+          </Link>
             <Link to="/">
               <li>Home</li>
             </Link>

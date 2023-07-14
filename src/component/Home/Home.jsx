@@ -33,7 +33,7 @@ const Home = () => {
         <loading />
       ) : (
         <>
-          <MetaData title="Kapada" />
+          <MetaData title="Fashion Hub" />
           <Header />
 
           {/* Carousel */}
